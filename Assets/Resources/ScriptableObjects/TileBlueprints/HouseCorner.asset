@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60342c4650169647b01e65a05157dc0, type: 3}
+  m_Name: HouseCorner
+  m_EditorClassIdentifier: 
+  Name: HouseCorner
+  SpriteLayers:
+  - Layer:
+    - {fileID: 21300000, guid: 1a902af7202983c4ea87003ca48887a9, type: 3}
+  - Layer:
+    - {fileID: 895409645, guid: 9e352f1a5e81dec46a21f5a57b3e1844, type: 3}
+    - {fileID: 454543968, guid: 9e352f1a5e81dec46a21f5a57b3e1844, type: 3}
+    - {fileID: -1036308143, guid: 9e352f1a5e81dec46a21f5a57b3e1844, type: 3}
+    - {fileID: 750670098, guid: 9e352f1a5e81dec46a21f5a57b3e1844, type: 3}
+  - Layer:
+    - {fileID: 1065608634, guid: 230da765c6143e64c8bdb74dfe91c6af, type: 3}
+    - {fileID: 1520740538, guid: 230da765c6143e64c8bdb74dfe91c6af, type: 3}
+    - {fileID: -256433176, guid: 230da765c6143e64c8bdb74dfe91c6af, type: 3}
+    - {fileID: 137099195, guid: 230da765c6143e64c8bdb74dfe91c6af, type: 3}
+  EdgeTypes: 01000000000000000000000001000000
+  CityStructureName: House
